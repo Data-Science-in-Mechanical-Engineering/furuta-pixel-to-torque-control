@@ -9,7 +9,7 @@ The repository is structured as follows:
 
 To train the agents, we use [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) and Pytorch.
 
-You can reproduce the learning pipeline on your own vision-based Furuta pendulum. Detailed instructions on how to reproduce our setup can be found in the [Quanser Driver](TODO) repository.
+You can reproduce the learning pipeline on your own vision-based Furuta pendulum. Detailed instructions on how to reproduce our setup can be found in the [Quanser Driver](https://github.com/Data-Science-in-Mechanical-Engineering/vision-based-furuta-pendulum) repository.
 
 ## Installation and Setup
 Python version >=3.6 is needed. Clone this repository and install requirements with 
@@ -18,7 +18,7 @@ Python version >=3.6 is needed. Clone this repository and install requirements w
 pip3 install -r requirements.txt 
 ``` 
 
-You also need to install the [Quanser Driver](TODO) repository. Please follow instructions there.
+You also need to install the [Quanser Driver](https://github.com/Data-Science-in-Mechanical-Engineering/vision-based-furuta-pendulum) repository. Please follow instructions there.
 
 Finally add package/ directory to PYTHONPATH with
 
